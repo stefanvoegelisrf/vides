@@ -37,12 +37,6 @@ Print and put it on the wall, 1 poster is presented
 
 ## Process document
 
-<object data="https://1drv.ms/b/s!AhXU9c-vzziSm8wNZr0utuZ9Xurrkw?e=dlSA3T" type="application/pdf" width="700px" height="700px">
-    <embed src="https://1drv.ms/b/s!AhXU9c-vzziSm8wNZr0utuZ9Xurrkw?e=dlSA3T">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://1drv.ms/b/s!AhXU9c-vzziSm8wNZr0utuZ9Xurrkw?e=dlSA3T">Download PDF</a>.</p>
-    </embed>
-</object>
-
-
+[OneDrive - Typo poster pdf](https://1drv.ms/b/s!AhXU9c-vzziSm8wNZr0utuZ9Xurrkw?e=dlSA3T")
 
 ## Final poster
