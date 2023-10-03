@@ -9,12 +9,12 @@
 
 ## Requirements
 
-– Format: A3 portrait, printed
-– Black / white or colored
-– In Adobe Illustrator or inDesign
-– Only use typography (no images, no foreign elements, geometric forms are allowed)
-– Phase II: min. 5 drafts
-– Phase III: min. 10 iteration (Presentation: 1 poste)
+- Format: A3 portrait, printed
+- Black / white or colored
+- In Adobe Illustrator or inDesign
+- Only use typography (no images, no foreign elements, geometric forms are allowed)
+- Phase II: min. 5 drafts
+- Phase III: min. 10 iteration (Presentation: 1 poste)
 
 ## Phase 1 - Analysis
 
