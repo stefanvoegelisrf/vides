@@ -6,6 +6,7 @@
 - [Kerning and tracking](https://helpx.adobe.com/indesign/using/kerning-tracking.html)
 - [Editing paths](https://helpx.adobe.com/indesign/using/editing-paths.html)
 - [Wrap text around objects](https://helpx.adobe.com/indesign/using/text-wrap.html)
+- [David Carson](https://de.wikipedia.org/wiki/David_Carson_(Grafikdesigner))
 
 ## Requirements
 
@@ -37,6 +38,16 @@ Print and put it on the wall, 1 poster is presented
 
 ## Process document
 
-[OneDrive - Typo poster pdf](https://1drv.ms/b/s!AhXU9c-vzziSm8wNZr0utuZ9Xurrkw?e=dlSA3T")
+[OneDrive - Typo poster pdf](https://1drv.ms/b/s!AhXU9c-vzziSm8wSylSwMMXdVJPJ1g?e=jug5bc)
+
+### Feedback
+
+- use oblique lines
+- Make statement bigger and provocative, add helvetica only small with small hint to switzerland
+- Make the poster opposing to the message
+- Make the helvetia drafts cleaner, add a small layer adding something more fine
+- use the format, don't work too centered
+- With the poster, attention has to be grabbed, how to achieve?
+- Add year and name as small info
 
 ## Final poster
