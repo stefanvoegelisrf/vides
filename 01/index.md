@@ -38,16 +38,8 @@ Print and put it on the wall, 1 poster is presented
 
 ## Process document
 
-[OneDrive - Typo poster pdf](https://1drv.ms/b/s!AhXU9c-vzziSm8wSylSwMMXdVJPJ1g?e=jug5bc)
-
-### Feedback
-
-- use oblique lines
-- Make statement bigger and provocative, add helvetica only small with small hint to switzerland
-- Make the poster opposing to the message
-- Make the helvetia drafts cleaner, add a small layer adding something more fine
-- use the format, don't work too centered
-- With the poster, attention has to be grabbed, how to achieve?
-- Add year and name as small info
+[OneDrive - Typo poster process](https://1drv.ms/b/s!AhXU9c-vzziSm8wSylSwMMXdVJPJ1g?e=RnGtjT)
 
 ## Final poster
+
+[OneDrive - Typo Poster](https://1drv.ms/b/s!AhXU9c-vzziSm84WsAuVUJ84-f8xOw?e=ZefRi5)
