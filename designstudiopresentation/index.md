@@ -7,9 +7,10 @@
 ## Short biography
 
 - international design agency
+- Founded in 1977 by Gert Dumbar, Creative Director until retirement 2003
+- Creative director is now Liz Enebeis who follow after Michel De Boer in 2011
 - explore new possibilities in creative coding, motion, sound, AI and create proprietary tech tools ourselves
 - clients, from leading global tech companies, to local businesses, NGOs, governments, non-profit organisations and cultural institutes
-- sound designers, motion designers, creative coders, creatived directors, project managers
 - Award winning for various categories
   - Motion
   - Visual Identity
