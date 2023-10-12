@@ -7,6 +7,7 @@
 
 - [Studio Dumbar - Work](https://studiodumbar.com/work)
 - [Wikipedia - Studio Dumbar](https://en.wikipedia.org/wiki/Studio_Dumbar)
+- [DEMO Festival](https://demofestival.com/)
 - [DEPT - Studio Dumbar](https://www.deptagency.com/agency/studio-dumbar/)
 - [masterdigitaldesign - Liz Enebeis](https://www.masterdigitaldesign.com/news/interview-liza-studio-dumbar-you-cannot-live-with-preconceptions)
 - [It's nice that - Studio Dumbar](https://www.itsnicethat.com/news/demo-2022-studio-dumbar-dept-graphic-design-animation-media-partnership-210422)
@@ -18,6 +19,11 @@
 - [Wikiwand - Studio Dumbar](https://www.wikiwand.com/en/Studio_Dumbar)
 - [9to5mac - Today at Apple - Studio Dumbar](https://9to5mac.com/2021/02/25/today-at-apple-studio-dumbar-new-world-map/)
 - [creativeboom - Studio Dumbar D&AD](https://www.creativeboom.com/inspiration/studio-dumbar-designed-dad-annual-2020-has-gone-digitaland-its-free-for-anyone-to-read/)
+- [YouTube - Nicer Tuesdays: Studio Dumbar](https://www.youtube.com/watch?v=7buUAlkKrxQ)
+- [YouTube - Static is not an option anymore” — Liza Enebeis on motion design](https://www.youtube.com/watch?v=KH5vYUZSL9c)
+- [Volkskrant - Gert Dumbar](https://www.volkskrant.nl/volkskrant-magazine/grafisch-ontwerper-gert-dumbar-schopt-graag-tegen-heilige-huisjes-het-zou-allemaal-zoveel-beter-kunnen~b6e1d7146/)
+- [Red Dot - Michel De Boer](https://www.red-dot.org/de/magazine/nachruf-red-dot-trauert-um-juror-michel-de-boer)
+- [Ideas on Design - Gert Dumbar](http://ideasondesign.net/speakers/speakers/gert-dumbar/)
 
 ## Short biography
 
