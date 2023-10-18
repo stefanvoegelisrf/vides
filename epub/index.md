@@ -108,7 +108,7 @@ Studio Dumbar currently uses Neue Haas Grotesk, which is modern version of Helve
 
 ### Tool
 
-I will use Figma as I want to use it for my personal work and also be more independent of Adobe programs.
+I will use <u>Figma</u> as I want to use it for my personal work and also be more independent of Adobe programs.
 
 ### Storytelling
 
@@ -137,6 +137,9 @@ I will use Figma as I want to use it for my personal work and also be more indep
 > We bring motion, sound and visual design together to create a dynamic, meaningful and future-focused brand. We want to build brands that make impact across all touch points and channels, in every part of the customer journey. We make sure your brand is heard and seen.
 
 #### Target audience
+
+- accessible by design
+  - focus on accessibility
 
 ### Content
 
