@@ -56,18 +56,23 @@ Studio Dumbar has been recognized with numerous awards over the years for their 
 
 ### Clients
 
-| Client      | Industry          | Work                    |
-| ----------- | ----------------- | ----------------------- |
-| [Randstad]()    | Employment agency | Visual identity         |
-| [South Korea](https://www.molit.go.kr/english) | Government        | Road signage            |
-| [Shell](https://www.shell.ch/)       | Oil & gas         | Annual report designs   |
-| [TNT](https://www.tnt.com/)         | Package delivery  | Building signage system |
-| [University of Twente](https://www.utwente.nl/en/) | University | Visual identity |
-| [European Design Festival](https://www.europeandesignfestival.lu/) | Culture | Identity |
-| [Dutch government](https://www.government.nl/) | Government | Visual identity |
-| [Dutch Police](https://www.government.nl/topics/police)| Government | Visual identity(also used for Fire Brigade, Ambulance and Rescue Brigade) |
-| [Amsterdam Sinfonietta](https://www.sinfonietta.nl/) | Music | Posters, Visual Identity |
-| [Boskalis](https://boskalis.com/) | construction and maintenance of maritime infrastructure | Visual identity, naming, tagline |
+| Client                                                             | Industry                                                | Work                                                                      |
+| ------------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------------------- |
+| [Randstad]()                                                       | Employment agency                                       | Visual identity                                                           |
+| [South Korea](https://www.molit.go.kr/english)                     | Government                                              | Road signage                                                              |
+| [Shell](https://www.shell.ch/)                                     | Oil & gas                                               | Annual report designs                                                     |
+| [TNT](https://www.tnt.com/)                                        | Package delivery                                        | Building signage system                                                   |
+| [University of Twente](https://www.utwente.nl/en/)                 | University                                              | Visual identity, interactive, web                                         |
+| [European Design Festival](https://www.europeandesignfestival.lu/) | Culture                                                 | Identity, motion                                                          |
+| [Dutch government](https://www.government.nl/)                     | Government                                              | Visual identity, interactive, web                                         |
+| [Dutch Police](https://www.government.nl/topics/police)            | Government                                              | Visual identity(also used for Fire Brigade, Ambulance and Rescue Brigade) |
+| [Amsterdam Sinfonietta](https://www.sinfonietta.nl/)               | Music                                                   | Posters, visual Identity, interactive, web                                |
+| [Boskalis](https://boskalis.com/)                                  | construction and maintenance of maritime infrastructure | Visual identity, naming, tagline                                          |
+| [Alzheimer Nederland](https://www.alzheimer-nederland.nl/)         | Non-Profit                                              | Visual identity, motion                                                   |
+| [OVG Real Estate - transitioned into EDGE](https://edge.tech/)     | Real estate                                             | Visual identity, motion                                                   |
+| [Delft City Marketing](https://www.delft.com/)                     | Government                                              | Visual identity, naming, tagline                                          |
+| [KPN Tower](https://de.wikipedia.org/wiki/Toren_op_Zuid)           | Telekommunikation                                       | Visual identity, motion                                                   |
+| [Alliander](https://www.alliander.com/en/)                         | Energy                                                  | Visual Identity                                                           |
 
 ## Analysis
 
