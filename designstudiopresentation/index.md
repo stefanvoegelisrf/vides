@@ -31,7 +31,8 @@ In 2003, the studio moved to Rotterdam, as Michel de Boer took over the creative
 
 Studio Dumbar's work in the early 1980s was fragmented, sometimes complex to the edge of chaos, and layered with complex typography. This caused consternation among advocates of a more ordered aesthetic. However, by the late 1980s many European designers were mimicking Studio Dumbar's approach.
 
-## Context
+
+## Context
 
 Studio Dumbar describes itself as “an international design agency specialized in visual branding and online branding”. Strategic positioning is foundational to their branding projects. It provides a compass for design, motion, sound, technology, communication–and much more. They often work with freelancers or small agencies when they want to add a kind of specialist expertise to a project team. Their full funnel approach merges brand and performance strategies underpinned by solid data strategy and platform creativity. This approach is key to providing unified customer experiences, expanding market presence, and maximizing customer value.
 
@@ -52,6 +53,19 @@ Studio Dumbar has been recognized with numerous awards over the years for their 
   - Motion, Visual identity for [NL Post](https://studiodumbar.com/work/postnl)
 - [DEMO](https://demofestival.com/) Design in Motion Festival
 - [Next Step 2022](https://studiodumbar.com/work/outsystems), Low Code conference, Studio Dumbar/DEPT® created the new visual identity for Next Step
+
+### Clients
+
+| Client      | Industry          | Work                    |
+| ----------- | ----------------- | ----------------------- |
+| [Randstad]()    | Employment agency | Visual identity         |
+| [South Korea](https://www.molit.go.kr/english) | Government        | Road signage            |
+| [Shell](https://www.shell.ch/)       | Oil & gas         | Annual report designs   |
+| [TNT](https://www.tnt.com/)         | Package delivery  | Building signage system |
+| [University of Twente](https://www.utwente.nl/en/) | University | Visual identity |
+| [European Design Festival](https://www.europeandesignfestival.lu/) | Culture | Identity |
+| [Dutch government](https://www.government.nl/) | Government | Visual identity |
+| [Dutch Police](https://www.government.nl/topics/police)| Government | Visual identity(also used for Fire Brigade, Ambulance and Rescue Brigade) |
 
 ## Analysis
 

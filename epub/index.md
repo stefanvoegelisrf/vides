@@ -26,6 +26,7 @@
 ## Resources
 
 - [Google Fonts knowledge](https://fonts.google.com/knowledge)
+- [Tiotype - Visual Designer](https://tiotype.com/)
 
 ## Requirements
 
@@ -87,6 +88,13 @@ Presentation in plenary (1 prototype on iPad/beamer)
 - [Ultra Kuhl](https://ultra-kuhl.com/)
 - [Schick Toikka](https://www.schick-toikka.com/)
 - [Displaay](https://displaay.net/)
+- [Caketype](https://www.caketype.com/)
+  - Typefoundry of Pieter van Rosmalen who designed the custom font "Hangil" for the south korean road signage. [Source - Webarchive - studiobar.com - South Korea Road Signage](https://web.archive.org/web/20130424134919/http://studiodumbar.com/work/south-korean-road-signage)
+    - Panno is the english counterpart for "Hangil"
+      - [Panno Sign](https://fonts.adobe.com/fonts/panno-sign)
+      - [Panno Text](https://fonts.adobe.com/fonts/panno-text)
+      - Used by [University of Gent](https://www.ugent.be/)
+- [Garage Fonts](https://garagefonts.com/)
 
 #### Font selection
 
@@ -105,9 +113,10 @@ I will use Figma as I want to use it for my personal work and also be more indep
 
 #### Ideas
 
-Gert Dumbar - "Oh and another thing is don’t use Helvetica please!" [Medium - Gert Dumbar in an Interview with Graham Sturt](https://medium.com/dutch-design-heroes/dutch-design-heroes-gert-dumbar-17cde989261d)
-
-Studio Dumbar now uses Haas Grotesk, which is originated from Helvetica. [Linotype - Neue Haas Grotesk](https://www.linotype.com/de/6598/neue-haas-grotesk.html)
+- Gert Dumbar - "Oh and another thing is don’t use Helvetica please!" [Medium - Gert Dumbar in an Interview with Graham Sturt](https://medium.com/dutch-design-heroes/dutch-design-heroes-gert-dumbar-17cde989261d)
+  - Studio Dumbar now uses Haas Grotesk, which is originated from Helvetica. [Linotype - Neue Haas Grotesk](https://www.linotype.com/de/6598/neue-haas-grotesk.html)
+- Create a visual identity for Studio Dumbar
+- Analyze works and describe a possible way of work to achieve the results that they achieved
 
 #### Studio Dumbar on strategy/identity
 
