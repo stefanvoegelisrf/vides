@@ -5,10 +5,6 @@ your home address, your email address (private or HSLU) and a phone number.
 The implementation can be very experimental, but legibility should be ensured in some form.
 form should be guaranteed.
 
-## Resources
-
-- 
-
 ## Requirements
 
 - Format: 16/9 projector format, 1920 x 1080 pixel (landscape)
@@ -59,4 +55,8 @@ Presentation should show, what you focussed on
 
 ## Process document
 
+[OneDrive - Process document](https://1drv.ms/b/s!AhXU9c-vzziSm9MSRPqANsoEfysZ2A?e=gctOkw)
+
 ## Final business cards
+
+[OneDrive - Final business cards](https://1drv.ms/b/s!AhXU9c-vzziSm9NX_80yQkInksF3Jg?e=CVTQY7)
