@@ -87,6 +87,7 @@ Studio Dumbar has been recognized with numerous awards over the years for their 
 | [Marlies Dekkers](https://www.marliesdekkers.com/)                                                                                  | Fashion                                                                                                          | Visual identity, interactive, web                                         |
 | [Vopak](https://www.vopak.com/)                                                                                                     | Industrial infrastructure for the storage and handling of chemicals, gases, LNG, oil, vegoils, ammonia, hydrogen | Visual identity, print                                                    |
 | [C Broadcasting (Omroep C)]()                                                                                                       | Broadcast                                                                                                        | Visual identity, interactive, web                                         |
+
 ## Analysis
 
 Studio Dumbar's style is characterized by its complexity and layered approach with typography. Their designs are sometimes fragmented and can be complex to the edge of chaos. This unique style has had a significant influence on European design. They are known for creating highly recognizable bold and iconic logos.
