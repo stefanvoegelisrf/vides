@@ -8,21 +8,30 @@
     - [Phase 1 - Design](#phase-1---design)
     - [Phase 2 - Elaboration of digital publication](#phase-2---elaboration-of-digital-publication)
     - [Formal requirements](#formal-requirements)
-  - [Research](#research)
+  - [Research and ideation](#research-and-ideation)
     - [Typography](#typography)
       - [Font selection](#font-selection)
     - [Format](#format)
+    - [Tool](#tool)
+    - [Storytelling](#storytelling)
+      - [Ideas](#ideas)
+      - [Studio Dumbar on strategy/identity](#studio-dumbar-on-strategyidentity)
+      - [Target audience](#target-audience)
+    - [Content](#content)
+      - [Title page](#title-page)
+      - [Table of contents](#table-of-contents)
+      - [Biography](#biography)
+      - [Project/topic pages](#projecttopic-pages)
 
 ## Resources
 
--[]()
+- [Google Fonts knowledge](https://fonts.google.com/knowledge)
 
 ## Requirements
 
 ### Task
 
-Create a concept for a digital publication on one of the given designers.
-(Please indicate your choice accordingly)
+Create a concept for a digital publication on [Studio Dumbar](https://studiodumbar.com/)
 
 ### Goals
 
@@ -48,6 +57,7 @@ Create a concept for a digital publication on one of the given designers.
 Presentation in plenary (1 prototype on iPad/beamer)
 
 ### Formal requirements
+
 - Format: tablet, landscape or portrait
 - in Adobe XD or Figma
 - No operating aids such as standardized buttons or similar.
@@ -55,7 +65,7 @@ Presentation in plenary (1 prototype on iPad/beamer)
 - Assessment: according to specifications from the module overview
 
 
-## Research
+## Research and ideation
 
 ### Typography
 
@@ -86,3 +96,50 @@ Presentation in plenary (1 prototype on iPad/beamer)
 
 - iPad Pro 12.9 (1024 x 1366)
 - landscape, can be used to present on the beamer and also works on the iPad
+
+### Tool
+
+I will use Figma as I want to use it for my personal work and also be more independent of Adobe programs.
+
+### Storytelling
+
+#### Ideas
+
+Gert Dumbar - "Oh and another thing is don’t use Helvetica please!" [Medium - Gert Dumbar in an Interview with Graham Sturt](https://medium.com/dutch-design-heroes/dutch-design-heroes-gert-dumbar-17cde989261d)
+
+Studio Dumbar now uses Haas Grotesk, which is originated from Helvetica. [Linotype - Neue Haas Grotesk](https://www.linotype.com/de/6598/neue-haas-grotesk.html)
+
+#### Studio Dumbar on strategy/identity
+
+> ##### Strategic positioning
+> What is the role you want to play in the life of your target audience; now, and in the future? We define the core answer to this question, in a clear and compelling way. Strategic positioning is foundational to our branding projects. It provides a compass for design, motion, sound, technology, communication–and much more.
+
+> ##### Visual Identity
+> Communicating who you are, without words; that’s how we see visual identity. Regardless of potential complexities and dynamics in your organisation; our mission is to express the personality of your brand in a strong, distinctive and appealing way. 
+
+> ##### Motion identity
+> As brands live on screen most of the time, being static is not an option. Motion is a crucial part of your visual behavior. We bring brands to life, defining how they move and interact; in marketing-communication, but also in-product, in-app.
+
+> ##### Sound identity
+> Sound adds an undeniable dimension of emotion to branding. Tuned to the right moments and touch points, sound is essential in creating atmosphere and strengthening recognition.
+
+> ##### Integrated branding
+> We bring motion, sound and visual design together to create a dynamic, meaningful and future-focused brand. We want to build brands that make impact across all touch points and channels, in every part of the customer journey. We make sure your brand is heard and seen.
+
+#### Target audience
+
+### Content
+
+#### Title page
+
+#### Table of contents
+
+#### Biography
+
+
+#### Project/topic pages
+
+- Government work
+- Amsterdam Sinfonietta
+- Motions/Visual identity
+- Fields of work / jobs at studio dumbar
