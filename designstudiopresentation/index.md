@@ -66,6 +66,8 @@ Studio Dumbar has been recognized with numerous awards over the years for their 
 | [European Design Festival](https://www.europeandesignfestival.lu/) | Culture | Identity |
 | [Dutch government](https://www.government.nl/) | Government | Visual identity |
 | [Dutch Police](https://www.government.nl/topics/police)| Government | Visual identity(also used for Fire Brigade, Ambulance and Rescue Brigade) |
+| [Amsterdam Sinfonietta](https://www.sinfonietta.nl/) | Music | Posters, Visual Identity |
+| [Boskalis](https://boskalis.com/) | construction and maintenance of maritime infrastructure | Visual identity, naming, tagline |
 
 ## Analysis
 
