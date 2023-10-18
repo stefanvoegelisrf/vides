@@ -98,7 +98,8 @@ Presentation in plenary (1 prototype on iPad/beamer)
 
 #### Font selection
 
-
+[Panno Text](https://fonts.adobe.com/fonts/panno-text) is a suitable font I could use which also has a reference to Studio Dumbar(used for South Korea Road Signage).
+Studio Dumbar currently uses Neue Haas Grotesk, which is modern version of Helvetica.
 
 ### Format
 
