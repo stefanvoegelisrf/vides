@@ -13,6 +13,7 @@
       - [Font selection](#font-selection)
     - [Format](#format)
     - [Tool](#tool)
+    - [Design elements](#design-elements)
     - [Storytelling](#storytelling)
       - [Ideas](#ideas)
       - [Studio Dumbar on strategy/identity](#studio-dumbar-on-strategyidentity)
@@ -28,6 +29,10 @@
 
 - [Google Fonts knowledge](https://fonts.google.com/knowledge)
 - [Tiotype - Visual Designer](https://tiotype.com/)
+- [Figma help - Accessing local fonts](https://help.figma.com/hc/en-us/articles/360039956894-Access-local-fonts-on-your-computer)
+- [Toptal - SVG Animation guide](https://www.toptal.com/front-end/svg-animation-guide)
+- [Figma - Create layouts with grids](https://help.figma.com/hc/en-us/articles/360040450513-Create-layout-grids-with-grids-columns-and-rows)
+- [Lottiefiles](https://lottiefiles.com/)
 
 ## Requirements
 
@@ -111,6 +116,15 @@ Studio Dumbar currently uses Neue Haas Grotesk, which is modern version of Helve
 
 I will use <u>Figma</u> as I want to use it for my personal work and also be more independent of Adobe programs.
 
+### Design elements
+
+- bright colors
+- simple geometric forms
+- repetitions
+- Moving SVGs
+  - Could be used for hover elements
+  - [Figma - SVG Animate plugin](https://www.figma.com/community/plugin/980366185319754464/svg-animate)
+
 ### Storytelling
 
 #### Ideas
@@ -127,6 +141,13 @@ I will use <u>Figma</u> as I want to use it for my personal work and also be mor
 - Create something musical inspired
   - Like MTV VMAs
   - Like Amsterdam Sinfonietta
+- Take Studio Dumbar to not so modern time
+- DEMO festival uses lots of screens around the netherlands, how could this be incoporated into the EPUB?
+  - E.g. use screen frames to integrate images into the EPUB
+- Virtual Exhibition guide for Studio Dumbar
+- Work with striping of Dutch Police, create transition by opening door
+  - Explore the power of stripes
+- How to brand a country
 
 #### Studio Dumbar on strategy/identity
 
