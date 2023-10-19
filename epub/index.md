@@ -118,6 +118,14 @@ I will use <u>Figma</u> as I want to use it for my personal work and also be mor
   - Studio Dumbar now uses Haas Grotesk, which is originated from Helvetica. [Linotype - Neue Haas Grotesk](https://www.linotype.com/de/6598/neue-haas-grotesk.html)
 - Create a visual identity for Studio Dumbar
 - Analyze works and describe a possible way of work to achieve the results that they achieved
+- Create a critical view on this design studio
+  - As cool and thoughtful as the projects are, Studio Dumbar does not seem to include political factors into the selection of their clients. For me personally, it would be hard to work for a studio like this.
+  - Do other clients, that also work with Studio Dumbar, take previous of their projects into account before going with Studio Dumbar?
+- Use Dutch Police vehicle striping for the design
+- Use elements like the centered badge from the work for the Dutch Government
+- Create something musical inspired
+  - Like MTV VMAs
+  - Like Amsterdam Sinfonietta
 
 #### Studio Dumbar on strategy/identity
 
