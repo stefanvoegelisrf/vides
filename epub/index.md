@@ -176,3 +176,4 @@ I will use <u>Figma</u> as I want to use it for my personal work and also be mor
 ## Figma
 
 - [Studio Dumbar EPUB 1](https://www.figma.com/file/PMKK9bg3fGH7BVCjZ5SfZR/Studio-Dumbar-EPUB-1?type=design&node-id=0%3A1&mode=design&t=QVXzieqU3Y4KfksP-1)
+- [Studio Dumbar EPUB 2](https://www.figma.com/file/1iVvzwmsyNPBva14HbbrNg/Studio-Dumbar-EPUB-2?type=design&node-id=0%3A1&mode=design&t=QVXzieqU3Y4KfksP-1)
