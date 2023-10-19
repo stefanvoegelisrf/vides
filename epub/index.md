@@ -154,10 +154,17 @@ I will use <u>Figma</u> as I want to use it for my personal work and also be mor
 
 #### Title page
 
+
+
 #### Table of contents
+
+- Table of content contains movement on hovering
 
 #### Biography
 
+- Include creative directors
+- Include most notable customers
+- Include philosophy/way of work
 
 #### Project/topic pages
 
