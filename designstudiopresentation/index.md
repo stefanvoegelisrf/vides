@@ -24,6 +24,7 @@
 - [Volkskrant - Gert Dumbar](https://www.volkskrant.nl/volkskrant-magazine/grafisch-ontwerper-gert-dumbar-schopt-graag-tegen-heilige-huisjes-het-zou-allemaal-zoveel-beter-kunnen~b6e1d7146/)
 - [Red Dot - Michel De Boer](https://www.red-dot.org/de/magazine/nachruf-red-dot-trauert-um-juror-michel-de-boer)
 - [Ideas on Design - Gert Dumbar](http://ideasondesign.net/speakers/speakers/gert-dumbar/)
+- [Dutch Brandweer Vehicles](https://www.brandweer.nl/materieel/)
 
 ## Short biography
 

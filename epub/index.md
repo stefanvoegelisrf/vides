@@ -137,6 +137,12 @@ I will use <u>Figma</u> as I want to use it for my personal work and also be mor
   - As cool and thoughtful as the projects are, Studio Dumbar does not seem to include political factors into the selection of their clients. For me personally, it would be hard to work for a studio like this.
   - Do other clients, that also work with Studio Dumbar, take previous of their projects into account before going with Studio Dumbar?
 - Use Dutch Police vehicle striping for the design
+  - What are the effects of the stripes? Psychology?
+  - create transition by opening door
+  - Use different colors
+    - Police - red(#) and blue(#)
+    - Fire brigade
+    - 
 - Use elements like the centered badge from the work for the Dutch Government
 - Create something musical inspired
   - Like MTV VMAs
@@ -145,9 +151,8 @@ I will use <u>Figma</u> as I want to use it for my personal work and also be mor
 - DEMO festival uses lots of screens around the netherlands, how could this be incoporated into the EPUB?
   - E.g. use screen frames to integrate images into the EPUB
 - Virtual Exhibition guide for Studio Dumbar
-- Work with striping of Dutch Police, create transition by opening door
-  - Explore the power of stripes
 - How to brand a country
+- What were the design phases of Studio Dumbar? What shifted and when? Show differences when Gert Dumbar was in office and the designs were more static to now where everything is in motion?
 
 #### Studio Dumbar on strategy/identity
 
