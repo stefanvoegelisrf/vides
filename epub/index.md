@@ -31,8 +31,22 @@
 - [Tiotype - Visual Designer](https://tiotype.com/)
 - [Figma help - Accessing local fonts](https://help.figma.com/hc/en-us/articles/360039956894-Access-local-fonts-on-your-computer)
 - [Toptal - SVG Animation guide](https://www.toptal.com/front-end/svg-animation-guide)
-- [Figma - Create layouts with grids](https://help.figma.com/hc/en-us/articles/360040450513-Create-layout-grids-with-grids-columns-and-rows)
+- Figma
+  - [Figma - Create layouts with grids](https://help.figma.com/hc/en-us/articles/360040450513-Create-layout-grids-with-grids-columns-and-rows)
+  - [Figma - Frames](https://help.figma.com/hc/en-us/articles/360041539473-Frames-in-Figma)
+  - [Figma - Storytelling in design](https://www.figma.com/resource-library/storytelling-in-design/)
+  - [Figma - Accessible and inclusive design](https://www.figma.com/resource-library/creating-accessible-and-inclusive-design/)
+  - [Figma - What is wireframing](https://www.figma.com/resource-library/what-is-wireframing/)
+  - [Figma - What is a style guide](https://www.figma.com/resource-library/what-is-a-style-guide/)
+  - [Figma - Design basics](https://www.figma.com/resource-library/design-basics/)
 - [Lottiefiles](https://lottiefiles.com/)
+- [The art of composition - Vertical/horizontal/diagonal lines](https://www.the-art-of-composition.com/the-vertical-horizontal-and-diagonal-line.html)
+- [Hatchdesign - Elements of design - line](https://www.hatchdesign.ca/elements-of-design-part-1-line/)
+- [Youtube - Amazing SVG Animations with No Code](https://www.youtube.com/watch?v=m0Dk0jMilm0)
+- [Youtube - Make Awesome SVG Animations with CSS // 7 Useful Techniques](https://www.youtube.com/watch?v=UTHgr6NLeEw&ab_channel=Fireship)
+- [Youtube - Complex SVG Animations Made Simple with JavaScript](https://www.youtube.com/watch?v=FVd5arHq0Zk)
+- [Youtube - Dutch Profiles: Studio Dumbar](https://www.youtube.com/watch?v=O0_YTQ958_s)
+- [Youtube - Motion Type Tutorial: Studio Dumbar for „DEMO FESTIVAL“](https://www.youtube.com/shorts/pSfF_WR87m8)
 
 ## Requirements
 
