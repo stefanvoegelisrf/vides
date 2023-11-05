@@ -11,6 +11,7 @@
   - [Research and ideation](#research-and-ideation)
     - [Typography](#typography)
       - [Font selection](#font-selection)
+        - [Font sizes](#font-sizes)
     - [Format](#format)
     - [Tool](#tool)
     - [Design elements](#design-elements)
@@ -121,6 +122,11 @@ Presentation in plenary (1 prototype on iPad/beamer)
 [Panno Text](https://fonts.adobe.com/fonts/panno-text) is a suitable font I could use which also has a reference to Studio Dumbar(used for South Korea Road Signage).
 Studio Dumbar currently uses Neue Haas Grotesk, which is modern version of Helvetica.
 
+##### Font sizes
+
+- Title: 72pt
+- Text: 
+
 ### Format
 
 - iPad Pro 12.9 (1024 x 1366)
@@ -156,7 +162,6 @@ I will use <u>Figma</u> as I want to use it for my personal work and also be mor
   - Use different colors
     - Police - red(#) and blue(#)
     - Fire brigade
-    - 
 - Use elements like the centered badge from the work for the Dutch Government
 - Create something musical inspired
   - Like MTV VMAs
@@ -217,3 +222,7 @@ I will use <u>Figma</u> as I want to use it for my personal work and also be mor
 
 - [Studio Dumbar EPUB 1](https://www.figma.com/file/PMKK9bg3fGH7BVCjZ5SfZR/Studio-Dumbar-EPUB-1?type=design&node-id=0%3A1&mode=design&t=QVXzieqU3Y4KfksP-1)
 - [Studio Dumbar EPUB 2](https://www.figma.com/file/1iVvzwmsyNPBva14HbbrNg/Studio-Dumbar-EPUB-2?type=design&node-id=0%3A1&mode=design&t=QVXzieqU3Y4KfksP-1)
+
+222
+117
+55
